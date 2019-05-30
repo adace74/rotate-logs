@@ -1,0 +1,20 @@
+######################################################################
+#
+# $Id$
+#
+######################################################################
+
+Legend For Changes Below:
+"?" Indicates a change that is being considered.
+"-" Indicates a change that hasn't even been started on.
+"+" Indicates a change that is currently being developed.
+"*" Indicates a change that is at least 80%(if not 100%) complete.
+
+Change List For v0.1 (Language: Python / Status: Planning)
+-------------------------------------------------------
+
+- Config file.
+- Config file logic.
+- Program logic.
+- Error handling.
+
