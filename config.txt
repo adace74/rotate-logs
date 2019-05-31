@@ -1,0 +1,12 @@
+[apache]
+apache_logdir="/var/log/apache" # This is a comment.
+apache_olddir="/var/log/apache/old"
+apache_files="file1 file2 file3"
+apache_restart="/usr/local/etc/rc.d/apache24 restart"
+
+[syslog]
+syslog_logdir="/var/log/"
+syslog_olddir="/var/log/old"
+syslog_files="file1 file2 file3"
+syslog_restart="/etc/rc.d/syslogd restart"
+
